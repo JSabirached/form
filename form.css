@@ -57,4 +57,9 @@ main section article{
 }
 main section article{width: 45%;
 }
-
+div {display: block;
+    text-align: center;
+    overflow: hidden
+    ;
+    margin: 50px;
+}
